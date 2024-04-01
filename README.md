@@ -8,17 +8,18 @@ Este repositório contém os arquivos e recursos necessários para a construçã
 - **Transistor:** Utilizado para o acionamento de cargas ou dispositivos externos.
 - **LED:** Serve como dispositivo de sinalização para o usuário.
 
-Cada componente foi criteriosamente escolhido e implementado para cumprir com os objetivos educacionais da tarefa, valendo 0,5 pontos na avaliação final pela correta utilização.
-
 ## Estrutura do Repositório
 
+```
 /
 ├── circuito
-│ ├── circuito.kicad
+│   ├── circuito-backups
+│   ├── gerber-files # Arquivos gerber para fabricação
+│   └── circuito.kicad # Arquivos kicad do circuito
 ├── src
-│ └── teste.py # Script principal para o Raspberry Pi Pico W
+│   └── teste.py  # Script principal para testar a pcb com o Raspberry Pi Pico W
 └── README.md
-
+```
 
 ## Imagens
 ### Esquemático no KiCad
