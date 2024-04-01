@@ -30,5 +30,10 @@ Este repositório contém os arquivos e recursos necessários para a construçã
 ![](static/pci.png)
 *Figura 2: Layout da placa no editor de PCI do KiCad.*
 
+### Visualizador 3D no KiCad
+![](static/3d.png)
+*Figura 3: Layout da placa com visualização 3D.*
+
+
 ## Como Usar
 O diretório `circuito` contém os arquivos para o kicad. O diretório `src` tem um arquivo teste em python. 
